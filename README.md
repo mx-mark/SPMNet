@@ -25,8 +25,7 @@ Code, pre-trained models and all demos will be released here. Welcome to watch t
 Listen for the audio samples on our [materials](https://ars.els-cdn.com/content/image/1-s2.0-S0925231222003873-mmc1.pptx).
 
 # Citation
-Our paper was accepted by Neurocomputing.
-Please, use this bibtex if you would like to cite our work
+Our paper was accepted by Neurocomputing. Please use this bibtex if you would like to cite our work
 ```
 @article{Ma2022VisuallyAS,
   title={Visually Aligned Sound Generation via Sound-Producing Motion Parsing},
